@@ -2,7 +2,7 @@
 
 ## Table of Content
   * [Overview](#overview)
-  * [about] (#About)
+  * [About] (#About)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
   * [Installation](#installation)
@@ -14,7 +14,7 @@
 This is a simple melanoma detection application build using PyTorch and Flask. It uses a pretrained Serestnet50 model, with amost 33126 photos. The project was executed on Kaggle kernels.
 This was a competition on kaggle [Melanoma](https://www.kaggle.com/c/siim-isic-melanoma-classification/overview)
 
-## About The Project
+## About
 Skin cancer is the most prevalent type of cancer. Melanoma, specifically, is responsible for 75% of skin cancer deaths, despite being the least common skin cancer. 
 The American Cancer Society estimates over 100,000 new melanoma cases will be diagnosed in 2020. It's also expected that almost 7,000 people will die from the disease. 
 As with other cancers, early and accurate detection—potentially aided by data science—can make treatment more effective. be the last one you ever need -- I think this is it.
@@ -55,11 +55,11 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Technologies used
   Major frameworks & Libraries 
-    * [PyTorch](https://pytorch.org/)
-    * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
-    * [Albumentation](https://albumentations.ai/)
-    * [WTFML}(https://pypi.org/project/wtfml/)
-    * [Numpy | Pandas]
+  * [PyTorch](https://pytorch.org/)
+  * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+  * [Albumentation](https://albumentations.ai/)
+  * [WTFML](https://pypi.org/project/wtfml/)
+  * [Numpy | Pandas]
 
 
 
