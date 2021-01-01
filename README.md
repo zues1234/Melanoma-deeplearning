@@ -2,7 +2,7 @@
 
 ## Table of Content
   * [Overview](#overview)
-  * [About] (#About)
+  * [About](#About)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
   * [Installation](#installation)
