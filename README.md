@@ -6,6 +6,7 @@
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
   * [Installation](#installation)
+  * [Run](#Run)
   * [To Do](#to-do)
   * [Technologies Used](#technologies-used)
   * [Credits](#credits)
@@ -44,6 +45,9 @@ If you want to install the libraries & packages I've used, run the following com
 ```sh
   pip install -r requirements.txt
   ```
+
+## Run
+To make life easier I've compiled everything into a notebook, so If you're interested in running the app simply run the notebook on any GPU provied platforms(kaggle suggested)
 
 ## To Do
 1. Convert the app to run without any internet connection, i.e. __PWA__.
